@@ -4,4 +4,5 @@
   {modules, [presence_exchange_app, presence_exchange]},
   {registered, []},
   {mod, {presence_exchange_app, []}},
+  {broker_version_requirements, []},
   {applications, [kernel, stdlib, rabbit, mnesia]}]}.
