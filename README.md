@@ -8,7 +8,7 @@ that are bound to it when other bindings appear and disappear.
 
 From time to time, I make a snapshot binary download of the plugin
 available: see
-<http://eighty-twenty.org/tech/rabbitmq/binary-plugins.html>. Expect
+<https://eighty-twenty.org/tech/rabbitmq/binary-plugins.html>. Expect
 plugins to have a GPG signature from `tonygarnockjones@gmail.com`, key
 available
 [here](http://homepages.kcbbs.gen.nz/tonyg/gpg-key-gmail.txt),
@@ -97,4 +97,4 @@ included with the source code for the package. If you have any
 questions regarding licensing, please contact
 <tonygarnockjones@gmail.com>.
 
-[MPL 2.0]: http://www.mozilla.org/MPL/2.0/
+[MPL 2.0]: https://www.mozilla.org/MPL/2.0/
